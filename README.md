@@ -1,6 +1,15 @@
-### Hi there 👋
-- 🌱 I’m a master student studying mechanical engineering at Technische Universität Darmstadt.
-- 😄 I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+### Experience:
+* Research assitant at Technische Universität Darmstadt.
+
+### Education:
+* Master of Science in 
+* Bachelor 
+
+### Additional information:
+* I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
 
  	
 <p align="center"   >
