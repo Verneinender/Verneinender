@@ -3,8 +3,8 @@
 - 😄 I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight&hide=Makefile,C,Typescript" >	
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight" >  	
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight&hide=Makefile,C,Typescript" >	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight" >  	
 <a href="https://github.com/Verneinender/Mobile_Robotics_Exercises">	
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Verneinender&repo=Mobile_Robotics_Exercises" />
 </a>
