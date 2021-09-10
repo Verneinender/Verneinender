@@ -11,7 +11,7 @@
 ### Additional information:
 * I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
 
- 	
+###GitHub Stats:	
 <p align="center"   >
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight&hide=Makefile,C,Typescript" >	
