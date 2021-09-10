@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...  
-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight)
+- 🌱 I’m  a master student studying mechanical engeerning at Technische Universität Darmstadt!
+- 😄 I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight)  
+
 ![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight)
 
 <!--
