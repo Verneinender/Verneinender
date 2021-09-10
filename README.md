@@ -2,7 +2,7 @@
 - 🌱 I’m a master student studying mechanical engineering at Technische Universität Darmstadt.
 - 😄 I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight&hide=Makefile,C)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight&hide=Makefile,C,Typescript)  
 
 ![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight)
 
