@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...  
+- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight)
 ![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight)
 
