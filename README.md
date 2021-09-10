@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m  a master student studying mechanical engeerning at Technische Universität Darmstadt!
+- 🌱 I’m a master student studying mechanical engineering at Technische Universität Darmstadt.
 - 😄 I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight)  
