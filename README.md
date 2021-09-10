@@ -2,9 +2,13 @@
 - 🌱 I’m a master student studying mechanical engineering at Technische Universität Darmstadt.
 - 😄 I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
 
+ 	
+<p align="center"   >
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight&hide=Makefile,C,Typescript" >	
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight" >  	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight" > 
+
+</p>  
 
 <!--
 **Verneinender/Verneinender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
