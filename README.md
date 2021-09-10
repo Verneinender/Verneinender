@@ -6,6 +6,8 @@
 
 ![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verneinender&repo=Mobile_Robotics_Exercises)
+
 <!--
 **Verneinender/Verneinender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
