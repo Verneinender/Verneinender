@@ -4,11 +4,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verneinender&theme=tokyonight&hide=Makefile,C,Typescript)  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true">
 ![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verneinender&show_icons=true&theme=tokyonight)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verneinender&repo=Mobile_Robotics_Exercises)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 <!--
 **Verneinender/Verneinender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
