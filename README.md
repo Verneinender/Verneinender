@@ -2,11 +2,11 @@
 
 
 ### Experience:
-* Research assitant at Technische Universität Darmstadt.
+* Research assitant at Technical University of Darmstadt.
 
 ### Education:
-* Master of Science in 
-* Bachelor 
+* Master of Science in Mechnical Engineering at Technical University of Darmstadt. (not finished)
+* Bachelor in Mechnical Engineering at Jingsu University.
 
 ### Additional information:
 * I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
