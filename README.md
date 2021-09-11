@@ -5,8 +5,8 @@
 * Research assitant at Technical University of Darmstadt.
 
 ### Education:
-* Master of Science in Mechnical Engineering at Technical University of Darmstadt. (not finished)
-* Bachelor in Mechnical Engineering at Jingsu University.
+* Master of Science in Mechanical Engineering at Technical University of Darmstadt. (not finished)
+* Bachelor in Mechanical Engineering at Jingsu University.
 
 ### Additional information:
 * I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
