@@ -8,8 +8,6 @@
 * Master of Science in Mechanical Engineering at Technical University of Darmstadt. (not finished)
 * Bachelor in Mechanical Engineering at Jiangsu University.
 
-### Additional information:
-* I'm currently learning automated driving, mainly in direction sensor fusion and SLAM.
 
 ### GitHub Stats:	
 <p align="center"   >
