@@ -10,7 +10,7 @@ My work focuses on developing and evaluating autonomous systems under challengin
 * Scenario-based Testing & Validation
 * SOTIF & Safety of Automated Systems
 * Perception Systems — Camera & LiDAR
-* Simulation — IPG CarMaker, DVRS, SiL / HiL
+* Simulation — IPG CarMaker, Driving Simulator, SiL / HiL
 * Vehicle Dynamics & Control
 * ROS 2 & Autonomous Systems
 * C++ / Python / MATLAB & Simulink
